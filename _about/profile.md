@@ -3,6 +3,5 @@ Meu perfil
 
 **Nome completo: Eduardo Zárate Guerreiro Max**   
 **Data de nascimento: 12/12/1990**   
-**LinkedIn: www.linkedin.com/in/eduardo-max-94310b15/**
-
-**Como nos conheceu: Pelo Davi **   
+**LinkedIn: https://www.linkedin.com/in/eduardo-max-94310b15/**
+**Como nos conheceu: Pelo Davi por mensagem privada e Joseli no linkedin**   
