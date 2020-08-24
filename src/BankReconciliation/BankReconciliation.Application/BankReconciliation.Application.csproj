@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankReconciliation.Domain\BankReconciliation.Domain.csproj" />
+    <ProjectReference Include="..\BankReconciliation.Infrastructure\BankReconciliation.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

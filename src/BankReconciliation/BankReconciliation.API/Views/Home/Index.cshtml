@@ -1,0 +1,13 @@
+﻿@model BankReconciliation.API.Models.FileUploadModel
+@{
+    ViewData["Title"] = "Import OFX";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<form action="Home/Upload/" enctype="multipart/form-data" method="post">
+    <input asp-for="@Model.FormFiles" type="file" multiple>
+
+    <input class="btn" type="submit" value="Upload" />
+</form>
